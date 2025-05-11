@@ -3,16 +3,16 @@
  */
 class FizzBuzz {
 
-    public static void main(String[] args) {
+    public static void meep() {
         int i =1;
 
         while ( i < 100) {
 
-            i = HEHE(i);
+            i = DoFizzBuzz(i);
         }
     }
 
-    private static int HEHE(int i) {
+    public static int DoFizzBuzz(int i) {
         // Find out which numbers divide i.
         boolean divisibleBy3 = i % 3 == 0;
         boolean divisibleBy5 = i % 5 == 0;
@@ -36,5 +36,9 @@ class FizzBuzz {
         }
         i++;
         return i;
+    }
+
+    public static void main(String[] args) {
+      meep();
     }
 }
