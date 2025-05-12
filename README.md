@@ -351,7 +351,7 @@ If you don't get the right answer, that's okay for now.
 This is to get you to practice. You'll have until the end of the week to work out the details and submit your
 working code on MarkUs.
 
-## Task 5: Reduce a number to 0
+## Task 5: Reduce a number to 0 (pee pee poo poo)
 
 - [] Right-click on `src` and select `New —> Java Class`. Name it `Reduce`.
 
